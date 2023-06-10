@@ -1,0 +1,47 @@
+Q:Can your object be played?
+Q:Is your object played with a bow?
+Q:Is  your object much smaller than a cello?
+A:Violin
+A:Cello 
+Q:Is your object a percussion instrument?
+Q:Is your instrument played with two objects?
+A:Symbol
+A:Drum 
+Q:Is your instrument a brass?
+Q:Does your object have a sliding featrue on it?
+A:Trombone
+Q:Does your object have the name of a prominent country in it?
+A:French Horn 
+Q:Is your object the largest brass instrument?
+A:Tuba 
+A:trumpet
+Q:Does your instrument have black and white keys on it?
+A:Piano
+Q:Is your object played with joy sticks?
+Q:Can your object connect the remotes to the body of the system?
+A:Nintendo Switch
+Q:Is your console made by MicroSoft?
+A:XBox 
+Q:Was your system most popular in the 80's?
+A:Arcade Machiene
+A:PlayStation
+A:Guitiar 
+Q:Can you object be used to play games on?
+A:Nintendo Switch
+Q:Does your object hold the President of the United States?
+Q:Can your object fly?
+A:Air Force 1
+A:The White House
+Q:Is your object a car manufacture?
+Q:Is your Car manufacture represented by a logo of a bowtie?
+A:Chevy
+A:Ford
+Q:Can you eat your object for dessert?
+Q:Will your object melt if you do not eat it fast enough?
+A:Ice Cream.
+Q:Does your object have cinnamon swirls throughout it?
+A:A cinnamon roll.
+Q:Does your object contain small pieces of chocolate throughout it?
+A:cookie
+A:Cake
+A:You
